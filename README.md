@@ -92,5 +92,4 @@ LCDcommand(command); // For sending commands to LCD like clearing screen ... etc
 ```c
 LCDcus(char); // For printing custom characters on LCD like popcorn icon
 ```
-And many many more
 
